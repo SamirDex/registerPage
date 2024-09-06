@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+    padding: 3rem 12rem;
+    background-color:  #3957D7 ;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
